@@ -5,7 +5,7 @@
 }
 
 body {
-    background: rgb(252, 177, 218);
+    background: rgba(238, 196, 248, 0.904);
     font-family: "Open Sans" Arial, Helvetica, sans-serif;
     font-size: 16px;
 }
@@ -13,14 +13,14 @@ body {
 .contenedor {
     width: 90%;
     max-width: 1000px;
-    background: (252, 251, 251);
+    background: (242, 205, 253) (252, 251, 251);
     margin: auto;
     overflow: hidden;
 }
 
 /*---------HEADER---------*/
 header {
-    background: url('../img/Fondoo.jpg');
+    background: url('../img/imge.jpg');
     background-repeat: no-repeat;
     background-position: center;
     max-height: 600px;
@@ -32,7 +32,7 @@ header .menu {
 }
 header .menu a {
     margin: 0 20px;
-    color: #fff;
+    color: rgb(10, 9, 9);
     padding-bottom: 9px;
     display: inline-block;
     text-decoration: none;
@@ -41,7 +41,7 @@ header .menu a {
     position: relative;
 }
 header .menu a:hover {
-    border-bottom:2px solid #fff;
+    border-bottom:2px solid #fff(7, 0, 0);
 
 }
 header .contenedor-texto {
