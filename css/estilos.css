@@ -13,13 +13,14 @@ body {
 .contenedor {
     width: 90%;
     max-width: 1000px;
+    background: #fff;
     margin: auto;
     overflow: hidden;
 }
 
 /*---------HEADER---------*/
 header {
-    background: url('../img/9.jpg');
+    background: url('../img/bg.jpg');
     background-repeat: no-repeat;
     background-position: center;
     max-height: 600px;
